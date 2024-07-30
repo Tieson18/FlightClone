@@ -52,14 +52,14 @@ const Lounge = () => {
                                     maxWidth: { xs: "150px", md: "200px" },
                                     borderRadius: '20rem',
                                     position: "absolute",
-                                    transform: { xs: "translate(-20%, 0%)", sm: "translate(100%, 0%)", md: "translate(0%, 0%)" },
+                                    transform: { xs: "translate(-35%, 0%)", sm: "translate(100%, 0%)", md: "translate(0%, 0%)" },
                                 }} />
                                 <Box component={"img"} src={Board} sx={{
                                     width: { xs: '100%', md: '100%' },
                                     height: { xs: "180px", md: "250px" },
                                     maxWidth: { xs: "130px", md: "180px" },
                                     borderRadius: '20rem',
-                                    transform: { xs: "translate(60%, 50%)", sm: "translate(200%, 50%)", md: "translate(70%, 50%)" },
+                                    transform: { xs: "translate(40%, 50%)", sm: "translate(200%, 50%)", md: "translate(70%, 50%)" },
                                     // zIndex: "1",
                                 }} />
                             </Stack>
