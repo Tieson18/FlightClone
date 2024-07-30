@@ -1,0 +1,14 @@
+export const SecondaryColor = "#f0f4f4";
+export const whiteColorDeam = "#ededed";
+export const primaryColor = "#3d5cb8";
+export const borderColor = "#d4d4d4";
+export const HoverColor = "#5c79d1";
+export const blackColor = "#1f1f1f";
+export const inputColor = "#f8f6f7";
+export const textColor = "#79797c";
+export const colorOne = "#eb967a";
+export const colorTwo = "#ffcea3";
+export const greyText = "#919191";
+export const whiteColor = "#fff";
+export const greyBg = "#f5f5f5";
+export const fontStyle = "League Spartan";
